@@ -4,8 +4,8 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'Jan 29, 2020',
-  name: 'Mage sudu..'
+  birthdate: 'April 07, 2025',
+  name: 'Mage sudu.. Hamadama sathutin inna.. Adarei man hugak hamadama..'
 };
 
 function hideEverything() {
