@@ -5,7 +5,7 @@ const canvasC = document.getElementById('c');
 
 const config = {
   birthdate: 'April 01, 2025',
-  name: 'Mage sudu.. Hamadama sathutin inna.. Adarei man hugak hamadama..'
+  name: 'Mage sudu..Adarei man hugak hamadama..'
 };
 
 function hideEverything() {
